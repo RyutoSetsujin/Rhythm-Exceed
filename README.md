@@ -10,7 +10,7 @@ The theme is based off of the legacy default theme for SM5.
 The changes in this fork are based on an older build of Rhythm Dark, so things may not fully work as intended.
 
 # Features
-Go into Theme Options and pick your Team! Dark or Light? The appearance, sounds, and music will change based off of your selected team, including your mascot character.
+Go into Theme Options and pick your Team! Dark, Light, or even Exceed? The appearance, sounds, and music will change based off of your selected team, including your mascot character.
 
 # Warnings
 This theme has only been tested on StepMania 5.1 beta 2, there is no guarantee it will work on other branches of SM5 including OutFox (however, Rhythm Exceed itself has been tested on Project Outfox).
